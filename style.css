@@ -1,0 +1,25 @@
+#right{
+  float: right;
+  margin: 10px;
+}
+#left{
+    float: left;
+    margin: 10px;
+  }
+.disk{
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#top{
+    width: 100%;
+    padding: 5px !important;
+}
+canvas{
+  border:10px solid white;
+}
